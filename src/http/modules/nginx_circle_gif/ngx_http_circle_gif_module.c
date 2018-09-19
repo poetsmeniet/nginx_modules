@@ -1,5 +1,6 @@
 /*
  * Copyright (C) Evan Miller
+ * Note: paste in browser after compile: http://localhost:8080/circles/000000/efefef/15.gif
  */
 
 #include <ngx_config.h>
